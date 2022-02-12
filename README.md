@@ -1,5 +1,19 @@
 # AMM 101
 
+## Preview
+This is a training class from my engineering school (ESILV, Fintech specialty) which aims to teach us Solidity and improve our development skills.
+
+Most of the repository files are provided and we need to get as many points as possible in the form of ERC20 tokens. We have to pass exercises in `Evaluator.sol` to get these token points.
+
+The objective of this training class is to create an ERC20 token and interact with Uniswap contracts.
+The contracts I wrote are `MyERC20.sol`, `MySolution.sol` and the `1_td_deploy.js` migration file.
+
+You can find out `MyERC20.sol` in Rinkeby Network at : `0x03cad346c46F9E077B0c54AD476E376C2Ba4FBb3`
+
+
+### ↓ Instructions below ↓
+
+
 ## Introduction
 Welcome! This is an automated workshop that will guide you into using Uniswap and doing a simple integration in a smart contract.
 It is aimed at developpers that are familiar with Solidity and ERC20 
